@@ -1,0 +1,96 @@
+-----Starting setup-----
+Attempting to load action file
+Action file looks good
+Setup for HDR & Photomerge
+-----Starting 8 Bits/Channel benchmark loop #0-----
+Opening RAW file
+Purging all cache
+Benchmarking action Resize to 500MB
+Benchmarking action Rotate
+Benchmarking action Magic Wand Select
+Benchmarking action Mask Refinement
+Benchmarking action Paint Bucket
+Benchmarking action Gradient
+Benchmarking action Camera Raw Filter
+Benchmarking action Lens Correction
+Benchmarking action Content Aware Fill
+Benchmarking action Reduce Noise
+Benchmarking action Smart Sharpen
+Benchmarking action Field Blur
+Benchmarking action Tilt-Shift Blur
+Benchmarking action Iris Blur
+Benchmarking action Adaptive Wide Angle
+Benchmarking action Liquify
+Benchmarking PSD save
+Close document
+Benchmarking PSD open
+Close document
+Purge all cache
+-----Starting 8 Bits/Channel benchmark loop #1-----
+Opening RAW file
+Purging all cache
+Benchmarking action Resize to 500MB
+Benchmarking action Rotate
+Benchmarking action Magic Wand Select
+Benchmarking action Mask Refinement
+Benchmarking action Paint Bucket
+Benchmarking action Gradient
+Benchmarking action Camera Raw Filter
+Benchmarking action Lens Correction
+Benchmarking action Content Aware Fill
+Benchmarking action Reduce Noise
+Benchmarking action Smart Sharpen
+Benchmarking action Field Blur
+Benchmarking action Tilt-Shift Blur
+Benchmarking action Iris Blur
+Benchmarking action Adaptive Wide Angle
+Benchmarking action Liquify
+Benchmarking PSD save
+Close document
+Benchmarking PSD open
+Close document
+Purge all cache
+-----Starting 8 Bits/Channel benchmark loop #2-----
+Opening RAW file
+Purging all cache
+Benchmarking action Resize to 500MB
+Benchmarking action Rotate
+Benchmarking action Magic Wand Select
+Benchmarking action Mask Refinement
+Benchmarking action Paint Bucket
+Benchmarking action Gradient
+Benchmarking action Camera Raw Filter
+Benchmarking action Lens Correction
+Benchmarking action Content Aware Fill
+Benchmarking action Reduce Noise
+Benchmarking action Smart Sharpen
+Benchmarking action Field Blur
+Benchmarking action Tilt-Shift Blur
+Benchmarking action Iris Blur
+Benchmarking action Adaptive Wide Angle
+Benchmarking action Liquify
+Benchmarking PSD save
+Close document
+Benchmarking PSD open
+Close document
+Purge all cache
+-----Starting photomerge benchmark loop #0-----
+Benchmarking Photomerge 22MP
+Benchmarking Photomerge 45MP
+Purge all cache
+-----Starting photomerge benchmark loop #1-----
+Benchmarking Photomerge 22MP
+Benchmarking Photomerge 45MP
+Purge all cache
+-----Starting photomerge benchmark loop #2-----
+Benchmarking Photomerge 22MP
+Benchmarking Photomerge 45MP
+Purge all cache
+Deleting action file
+-----Parsing scores-----
+Parsing basic general scores
+Parsing basic filter score
+Parsing basic photomerge score
+Parsing basic GPU score
+Writing everything to log file
+-----Benchmark Complete!!!-----
