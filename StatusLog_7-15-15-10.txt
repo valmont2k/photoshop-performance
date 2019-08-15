@@ -1,0 +1,24 @@
+-----Starting setup-----
+Attempting to load action file
+Action file doesn't already exists
+loading action file from /d/photoshop/Puget%20Systems%20Ps%202019%20Benchmark%20ver.%20810/TestFiles/PugetBenchmark.ATN
+Action file looks good
+Setup for HDR & Photomerge
+-----Starting 8 Bits/Channel benchmark loop #0-----
+Opening RAW file
+Purging all cache
+Benchmarking action Resize to 500MB
+Benchmarking action Rotate
+Benchmarking action Magic Wand Select
+Benchmarking action Mask Refinement
+Benchmarking action Paint Bucket
+Benchmarking action Gradient
+Benchmarking action Camera Raw Filter
+Benchmarking action Lens Correction
+Benchmarking action Content Aware Fill
+Benchmarking action Reduce Noise
+Benchmarking action Smart Sharpen
+Benchmarking action Field Blur
+Benchmarking action Tilt-Shift Blur
+Benchmarking action Iris Blur
+Benchmarking action Adaptive Wide Angle
