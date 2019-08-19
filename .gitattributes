@@ -93,4 +93,6 @@
 *.TTF filter=lfs diff=lfs merge=lfs -crlf
 *.webp filter=lfs diff=lfs merge=lfs -crlf
 *.xd filter=lfs diff=lfs merge=lfs -crlf
+*.nef filter=lfs diff=lfs merge=lfs -crlf
+*.NEF filter=lfs diff=lfs merge=lfs -crlf
 
